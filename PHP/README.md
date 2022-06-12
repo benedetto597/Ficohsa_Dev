@@ -21,6 +21,3 @@ Ejecutar en localhost:
     php -S localhost:8000
     ```
     
-### Dev Backend
-#### Mejores Librerias & Frameworks
-* Laravel

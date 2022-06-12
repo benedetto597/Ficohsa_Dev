@@ -30,3 +30,8 @@ _____
 * Angular
   * Es el segundo más descargado semanalmente con casi con casi 3,000,000 descargas semanales
   * Tiene 75.6k repositorios 75.6k con estrellas
+  
+______
+### Dev Backend
+#### Mejores Librerias & Frameworks
+* Laravel
